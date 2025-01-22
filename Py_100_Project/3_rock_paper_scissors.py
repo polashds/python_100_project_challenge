@@ -31,3 +31,10 @@ def rock_paper_scissors():
         print("You lose.")
 
 rock_paper_scissors()
+
+
+#tags
+#function
+#user input
+#random
+#conditional statements
